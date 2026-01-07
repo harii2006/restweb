@@ -2,7 +2,7 @@
 ## Date:25/12/2025
 
 ## AIM:
-To develop a static Restaurant website to display the food items and services provided by them.
+To develop a static Restaurant website to display the food items and services provided by them
 
 ## DESIGN STEPS:
 
